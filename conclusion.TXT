@@ -1,0 +1,12 @@
+Here's a quick summary of the tasks accomplished in this project:
+
+    1. Set a goal for the project.
+    2. Collected and sorted the data.
+    3. Reformatted and cleaned the data to prepare it for analysis.
+    4. Analyzed the data.
+
+Conclusion
+
+In this project, I analyzed ask posts and show posts to determine which type of post and time receive the most comments on average. Based on the analysis, to maximize the amount of comments a post receives, it's recommended that the post be categorized as ask post and created between 15:00 and 16:00 (3:00 pm est - 4:00 pm est).
+
+However, it should be noted that the data set analyzed excluded posts without any comments. Given that, it's more accurate to say that of the posts that received comments, ask posts received more comments on average and ask posts created between 15:00 and 16:00 (3:00 pm est - 4:00 pm est) received the most comments on average.
